@@ -21,7 +21,7 @@ def lasso_letter(letter, shift_amount):
         # If the character is not a letter, don't change it
         decoded_letter = letter
 
-    # Send the decoded letter back
+    # Send the decoded letter back 
     return decoded_letter
 
 # Define a function to find the truth in a secret message
